@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(255, 210, 217);
+}
+
+input {
+  padding: 5px 5px;
+  background-color: rgb(196, 194, 194);
+  border-radius: 5px;
+  box-shadow: 2px 2.5px 4px rgb(153, 153, 153);
+  color: white;
+}

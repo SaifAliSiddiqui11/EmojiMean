@@ -1,0 +1,52 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.heading{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  margin-bottom:30px;
+  text-align:center;
+  letter-spacing:3px;
+  font-size:26px;
+  background-color:#f0edbd;
+  padding:10px;
+  color:#5c5b50;
+  border-radius:5px;
+}
+body{
+  background-color: rgb(141, 253, 219);
+}
+.card{
+
+display: inline-flex;
+padding: 15px;
+}
+.cardInfo{
+  font-size: 12px;
+  color:rgb(153, 56, 75);
+  background-color:white;
+  border-bottom-right-radius: 15px;
+  padding: 10px;
+}
+
+
+.cardImg{
+  border-radius: 5px;
+  height: 150px;
+  width: 160px;
+  margin: 3px;
+}
+.movieButton{
+  border-radius:5px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(247, 225, 101);
+  width:70px;
+  height:25px;
+  font-size:10px;
+  color: rgb(68, 103, 168);
+  box-shadow: 5px 5px 5px;
+}
+.movieButton:hover{
+  background-color:rgb(218, 200, 124) ;
+  cursor:pointer;
+}
